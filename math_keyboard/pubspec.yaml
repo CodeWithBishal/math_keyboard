@@ -1,6 +1,5 @@
 name: math_keyboard
 version: 0.3.2
-publish_to: 'none'
 
 environment:
   sdk: ^3.8.1
